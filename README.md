@@ -14,7 +14,7 @@
 - I've been learning ML and DS since 14 years 👶🏼
 - Youngest MTS school of data analytics alumnus (18 years) 🌱
 - Multiple hackathons winner 🏆
-- Done multiple freelance projects on different analytics and ml related tasks (more info in CV) 💸
+- Done multiple freelance projects on different analytics and ml related tasks (more info in [CV](https://github.com/daniildiveev/cv/blob/main/CV_Diveev.pdf)) 💸
 - I cook pretty decent carbonara 👨🏻‍🍳🇮🇹
 
 
