@@ -6,7 +6,7 @@
 
 *I am currently learning at ITMO University, Neurotechnologies faculty* 🎓
 
-*I am ready to accept job offers: Junior DA, DS, MLE or DL* 👨‍💻
+*I am currently workging at X5 tech CVM department as a Data Analyst* 👨‍💻
 
 *Reach me here:* **daniildiveev@yandex.ru**, **[Telegram](https://t.me/daniildiveev)** 📮
 
