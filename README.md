@@ -6,7 +6,7 @@
 
 *I am currently learning at ITMO University, Neurotechnologies faculty* 🎓
 
-*I am currently workging at X5 tech CVM department as a Data Analyst* 👨‍💻
+*I am currently workging at X5 Tech Targeting department as a Data Analyst* 👨‍💻
 
 *Reach me here:* **daniildiveev@yandex.ru**, **[Telegram](https://t.me/daniildiveev)** 📮
 
