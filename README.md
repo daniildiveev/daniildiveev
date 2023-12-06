@@ -31,5 +31,6 @@
 <img  src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" height="40" width="40"/>
 <img  src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" height="40" width="100"/>
 <img  src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" height="40" width="100"/>
+<img  src="https://github.com/valohai/ml-logos/blob/master/spark.svg" height="40" width="100"/>
 
 </div>
